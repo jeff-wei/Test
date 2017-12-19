@@ -4,6 +4,7 @@ var y_arr =  [ 9, 442, 448, 159, 90, 414, 399, 201, 387 ]  ;
 function setup(){
     createCanvas(800,500) ;
 }
+
 function draw(){
     background(0,25,0);
     draw_path();
